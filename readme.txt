@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: dopert3, rvanbekkum
-Donate link: http://www.eurobellen.nl/bel/?pid=34363&apos;returnurl=doneer.php
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=robert%40bekcomp%2enl&lc=NL&item_name=donatie%20wordpress&item_number=wordpress&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: navigate, google, maps, contact
 Requires at least: 2.0.2
 Tested up to: 3.1
