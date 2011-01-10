@@ -32,7 +32,7 @@ function mt_add_pages() {
 
 function add_googlenav_header(){
   echo "";
-  $dir = WP_PLUGIN_URL.'/GoogleNav/scripts/';
+  $dir = WP_PLUGIN_URL.'/scripts/';
   echo <<<_end_
   <script src="{$dir}jquery.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
