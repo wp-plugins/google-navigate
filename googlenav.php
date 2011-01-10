@@ -69,7 +69,7 @@ function navigator_func($atts) {
 			DirDisplay = new google.maps.DirectionsRenderer();
 			DirService = new google.maps.DirectionsService();
 			
-			Map = new google.maps.Map(document.getElementById("Maps"), {
+			Map = new google.maps.Map(document.getElementById("MapsDiv"), {
 				zoom: 10,
 				center: new google.maps.LatLng(-34.397, 150.644), 
 				navigationControl: true,
@@ -125,7 +125,7 @@ function navigator_func($atts) {
     	<b>To&nbsp;:&nbsp;&nbsp;</b>{$location}	
       
     </div>
-    <div id="Maps" style="height:{$height}; width:{$width}; {$style} "></div>
+    <div id="MapsDiv" style="height:{$height}; width:{$width}; {$style} "></div>
     <div id="NavigationText"></div>
   <!-- End googlenav -->
 
