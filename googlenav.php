@@ -126,6 +126,17 @@ function navigator_func($atts) {
       
     </div>
     <div id="MapsDiv" style="height:{$height}; width:{$width}; {$style} "></div>
+        <script type="text/javascript"><!--
+			google_ad_client = "pub-6941027754457514";
+			/* 468x15, gemaakt 10-1-11 */
+			google_ad_slot = "4101246797";
+			google_ad_width = 468;
+			google_ad_height = 15;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
     <div id="NavigationText"></div>
   <!-- End googlenav -->
 
