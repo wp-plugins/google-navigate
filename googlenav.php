@@ -130,7 +130,7 @@ function navigator_func($atts) {
   <!-- End googlenav -->
 
 _end_;
- return "balblalablbal {$google_navigator_html}";
+ return $google_navigator_html;
 }
 
  
