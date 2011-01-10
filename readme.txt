@@ -4,8 +4,7 @@ Donate link: http://www.eurobellen.nl/bel/?pid=34363&apos;returnurl=doneer.php
 Tags: navigate, google, maps, contact
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: 4.3
-
+Stable tag: 4.4.1
 a plugin for a contact page. add the adres you want visitor to navigate to.
 == Description ==
  Visitors type their address. They get direct driving directions in the browser's default.
