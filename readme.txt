@@ -43,7 +43,7 @@ Yes this is realy made by my (sorry it is a schoolproject. Will remove this soon
 
 enter in your blog [navigator location="street, place"]
 
-= How to customize=
+= How to customize =
 
 style="just any style (borde:1px solid black;"
 heigt="number px/pt/%" default = 300 px
@@ -60,6 +60,7 @@ vb.
 == Changelog ==
 
 update readme
+showing trunk readme
 
 
 
