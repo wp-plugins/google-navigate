@@ -3,7 +3,7 @@
 Plugin Name: Google Navigator
 Plugin URI: http://googlenavigator.heefthetgemaakt.nl
 Description: a plugin for a contact page. add the adres you want visitor to navigate to. Visitors type their address. They get direct driving directions in the browser's default.
-Version: 4.4
+Version: 4.4.1
 Author: Robert van Bekkum
 Author URI: http://www.bekcomp.nl
 License: A "Slug" license name e.g. GPL2

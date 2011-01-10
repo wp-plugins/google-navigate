@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rober
 Tags: navigate, google, maps, contact
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: 4.4
+Stable tag: 4.4.1
 
 a plugin for a contact page. add the adres you want visitor to navigate to.
 == Description ==
