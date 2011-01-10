@@ -3,7 +3,7 @@
 Plugin Name: Google Navigator
 Plugin URI: http://googlenavigator.heefthetgemaakt.nl
 Description: a plugin for a contact page. add the adres you want visitor to navigate to. Visitors type their address. They get direct driving directions in the browser's default.
-Version: 1.0
+Version: 4.4
 Author: Robert van Bekkum
 Author URI: http://www.bekcomp.nl
 License: A "Slug" license name e.g. GPL2
@@ -25,14 +25,11 @@ License: A "Slug" license name e.g. GPL2
 	
 	Gemaakt voor een schooloopdracht van INHolland Haarlem
 */
-function mt_add_pages() {
-    // Add a new submenu under Settings:
-    add_options_page(__('Test Settings','menu-test'), __('Test Settings','menu-test'), 'manage_options', 'testsettings', 'mt_settings_page');
-}
+
 
 function add_googlenav_header(){
   echo "";
-  $dir = WP_PLUGIN_URL.'/GoogleNav/scripts/';
+  $dir = WP_PLUGIN_URL.'/google-navigate/scripts/';
   echo <<<_end_
   <script src="{$dir}jquery.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
