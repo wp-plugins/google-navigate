@@ -4,10 +4,12 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rober
 Tags: navigate, google, maps, contact
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: 4.4.1
+Stable tag: 4.5
+
 a plugin for a contact page. add the adres you want visitor to navigate to.
 == Description ==
- Visitors type their address. They get direct driving directions in the browser's default.
+
+You specify the destination, visitors leave their address. When they push the send button, there will be under the folder DIV directions.
 
 
 This is plugin for a contactform oid. 
@@ -20,6 +22,12 @@ to cutomize add
 style="just any style (borde:1px solid black;"
 heigt="number px/pt/%" default = 300 px
 width="number px/pt/%" default = auto
+
+
+OWN language
+
+[navigator location="saenredamstraat 16, haarlem" to="Naar" from="Van" show="Toon Route"] 
+
 
 
 == Installation ==
@@ -59,9 +67,9 @@ vb.
 == Changelog ==
 
 update readme
-showing trunk readme
+fixed some bugs
+added language for Go and From and Send
 
-
-
+[navigator location="saenredamstraat 16, haarlem" to="Naar" from="Van" show="Toon Route"] 
  
 
