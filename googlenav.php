@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Google Navigator
+Plugin Name: Google Navigator 
 Plugin URI: http://googlenavigator.heefthetgemaakt.nl
 Description: a plugin for a contact page. add the adres you want visitor to navigate to. Visitors type their address. They get direct driving directions in the browser's default.
 Version: 4.5

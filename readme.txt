@@ -2,9 +2,9 @@
 Contributors: dopert3, rvanbekkum
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=robert%40bekcomp%2enl&lc=NL&item_name=donatie%20wordpress&item_number=wordpress&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: navigate, google, maps, contact
-Requires at least: 2.0.2
+Requires at least: 2.8.6
 Tested up to: 3.1
-Stable tag: 4.5
+Stable tag: 4.5.1
 
 a plugin for a contact page. add the adres you want visitor to navigate to.
 == Description ==
@@ -71,5 +71,6 @@ fixed some bugs
 added language for Go and From and Send
 
 [navigator location="saenredamstraat 16, haarlem" to="Naar" from="Van" show="Toon Route"] 
+small bug fixed
  
 
